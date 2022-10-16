@@ -34,7 +34,7 @@ body {
 :root {
 	--thm-font: 'Poppins', sans-serif;
 	--thm-base: #ff8402;
-	--thm-color: #2b1d6a;
+	--thm-color: rgb(0, 100, 156);
 	--thm-black: #4e4e4e;
 	--thm-white: #ffffff;
 	--thm-ase: #afb2bf;
@@ -949,7 +949,9 @@ button, input, textarea:focus {
 */
 #atf-map-area iframe {
     width: 100%;
-    height: 500px;
+    height: 700px;
+	padding-top: 15%;
+	padding-bottom: 3%;
 }
 /*
 * ----------------------------------------------------------------------------------------
