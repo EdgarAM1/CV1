@@ -803,6 +803,17 @@ button, input, textarea:focus {
 	text-align: center;
 	padding-top: 5px;
 }
+.atf-about-icon2 {
+	display: inline-block;
+	-webkit-transition: 0.3s all ease-in-out 0s;
+	transition: 0.3s all ease-in-out 0s;
+}
+.atf-about-icon2 i {
+	color: var(--thm-white);
+	font-size: 70px;
+	text-align: center;
+	padding-top: 5px;
+}
 .atf-about-text h3 {
 	padding: 0px 0 10px 0;
 	color: var(--thm-color);
